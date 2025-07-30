@@ -12,9 +12,9 @@ Here are some of the projects I've built. Each one represents a step forward in 
 
 | Project | Description | Tech Stack | Live Demo | Source Code |
 | :--- | :--- | :--- | :---: | :---: |
-| **Survey Form** | A responsive form for gathering user feedback, a key tool for any leader. | `HTML`, `CSS` | [View Live](https://your-username.github.io/fcc-survey-form/) | [View Code](https://github.com/your-username/fcc-survey-form) |
-| **Tribute Page** | A page dedicated to a leader I admire, built with a focus on responsive design. | `HTML`, `CSS` | [View Live](https://your-username.github.io/fcc-tribute-page/) | [View Code](https://github.com/your-username/fcc-tribute-page) |
-| **Product Landing Page** | A landing page for a digital product, practicing conversion-focused design. | `HTML`, `CSS` | [View Live](https://your-username.github.io/fcc-product-page/) | [View Code](https://github.com/your-username/fcc-product-page) |
+| **Survey Form** | A responsive form for gathering user feedback, a key tool for any leader. | `HTML`, `CSS` | [View Live](https://eliotsuggs.github.io/fcc-survey-form/) | [View Code](https://github.com/eliotsuggs/fcc-survey-form) |
+| **Tribute Page** | A page dedicated to a leader I admire, built with a focus on responsive design. | `HTML`, `CSS` | [View Live](https://eliotsuggs.github.io/fcc-tribute-page/) | [View Code](https://github.com/eliotsuggs/fcc-tribute-page) |
+| **Product Landing Page** | A landing page for a digital product, practicing conversion-focused design. | `HTML`, `CSS` | [View Live](https://eliotsuggs.github.io/fcc-product-page/) | [View Code](https://github.com/eliotsuggs/fcc-product-page) |
 
 ---
 
@@ -28,5 +28,5 @@ Here are some of the projects I've built. Each one represents a step forward in 
 
 ### 📫 Let's Connect
 
-* **YouTube:** [The Pursuit of Excellence](https://www.youtube.com/your-channel-link)
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+* **YouTube:** [The Pursuit of Excellence](https://www.youtube.com/@eliotsuggs)
+* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/eliotsuggs/)
